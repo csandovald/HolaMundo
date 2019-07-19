@@ -1,0 +1,6 @@
+Andres Piso LaPaz 5 150000 84
+2 4 edificio casa casa edificio 1 casa
+Francisco Local Galerias 4 620000 72
+2 Comercial true Jugos Oficina casa null
+Amaranto Piso marantá 3 150000 54
+1 1 casa
